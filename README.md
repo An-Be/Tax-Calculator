@@ -6,4 +6,4 @@ The tax calculator has a verbose method and a silent method which both shows the
 
 I also incorporated a csv file that included employee information. For the employee csv file I used a loop to read each line in the text file and put the data into an array. I then displayed the data in the array to the console to show all the employee data.
 
-This project was assigned by the WOZ-U .net Apprenticeshiip position. I had a lot of fun doing it and would like to add further functionality to it by changing the employee information array into a list and using LINQ to allow the user to request the employee data be sorted in a specific way.
+This project was assigned by the WOZ-U .net Apprenticeship position.
